@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://eyus-my.sharepoint.com/:f:/r/personal/nitesh_lakhwani_ey_com/Documents/Documents/Projects/Adobe/ACO/Storefront?csf=1&web=1&e=ojW4RP/
+    type: markup
+
+folders:
+  /products/: /products/default
